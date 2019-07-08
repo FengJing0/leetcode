@@ -1,3 +1,5 @@
+// 557
+
 // export default str => {
 //   let arr = str.split(' ')
 //   return arr.map(item => item.split('').reverse().join('')).join(' ')
